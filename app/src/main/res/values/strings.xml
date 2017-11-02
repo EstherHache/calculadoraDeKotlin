@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">calculadoraKotlin</string>
+    <string name="tv_datoa">Dato a</string>
+    <string name="tv_datob">Dato b</string>
+    <string name="tv_datoc">Dato c</string>
+    <string name="bt_calcular">Calular</string>
+    <string name="bt_trigo">Trigonometria</string>
+
+    <string-array name="spinner1_array">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplica</item>
+        <item>Division</item>
+    </string-array>
+</resources>
